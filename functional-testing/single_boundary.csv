@@ -1,0 +1,11 @@
+x,y,expected
+55,1,Nguoi thuong
+55,2,Nguoi thuong
+55,10,Phap su Chop nhoang
+55,9,Phap su Chop nhoang
+55,6,Phap su Tap su
+10,6,Nguoi thuong
+11,6,Nguoi thuong
+100,6,Phap su Tri tue
+99,6,Phap su Tri tue
+

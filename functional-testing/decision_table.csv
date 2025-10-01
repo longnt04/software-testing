@@ -1,0 +1,10 @@
+x,y,expected
+10,2,Nguoi thuong
+10,8,Nguoi thuong
+10,10,Nguoi thuong
+70,2,Nguoi thuong
+70,8,Phap su Tap su
+70,10,Phap su Chop nhoang
+100,2,Nguoi thuong
+100,8,Phap su Tri tue
+100,10,Phap su Toan nang
